@@ -6,3 +6,9 @@ DST-PORT,9993
 
 # ec2
 DOMAIN-SUFFIX,compute.amazonaws.com
+
+# proxy node
+DOMAIN-SUFFIX,lehaienaa.yangliq.com
+DOMAIN-SUFFIX,jd.kunlunpx.com
+DOMAIN-SUFFIX,entry.v51124-4.qpon
+DOMAIN-SUFFIX,233netpro.com
