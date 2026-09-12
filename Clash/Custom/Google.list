@@ -1,0 +1,36 @@
+# 内容：Google
+# 数量：34条
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,analytics.google.com
+DOMAIN-SUFFIX,ads.google.com
+DOMAIN-SUFFIX,search.google.com
+DOMAIN-SUFFIX,developers.google.com
+DOMAIN-SUFFIX,merchants.google.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,app-measurement.net
+DOMAIN-SUFFIX,c.gle
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,google-analytics-cn.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromebook.com
+DOMAIN-SUFFIX,chromecast.com
+DOMAIN-SUFFIX,chromeos.dev
+DOMAIN-SUFFIX,chromestatus.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
